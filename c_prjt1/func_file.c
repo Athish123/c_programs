@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 #include <func_file.h>
 
 void myPrintHelloMake(void) {
